@@ -1,0 +1,2 @@
+# JustForFunsies
+Practicing utilizing GitHub
